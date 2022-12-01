@@ -48,3 +48,10 @@ To file a request for a vendor id with this repository, submit a pull request ad
 * The name and contact information of the registrar, Clever-ISA Project <chorman@lcdev.xyz>.
 
 Registrations of Well-known subclasses are approved according to the standard Clever-ISA Governance. 
+
+## Amending Registration Info
+
+The registrant of a class id, vendor id, or well-known subclass id may amend the information given in the registration.
+The registrant may also declare a list of delegates who are authorized to amend that information.
+
+Amending Registration Info requires Maintainer Approval only, except that amending specification information for a well-known subclass id registration requires full approval.
