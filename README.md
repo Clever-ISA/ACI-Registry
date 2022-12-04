@@ -16,7 +16,7 @@ To file a request for a class id with this repository, submit a pull request add
 * The public name of the class,
 * The name and contact information (email address) for the person or organization who owns and maintains the subclass registry for the class id. Each class registrant must maintain a registry for subclasses and rules for subclass registration within that registry.,
 * The name and contact information (email address) for the person filing the registration and who is responsible for the registration,
-* The name and contact information of the registrar, Clever-ISA Project <chorman@lcdev.xyz>.
+* The name and contact information of the registrar, Clever-ISA Project <cleverisa@lcdev.xyz>.
 
 Class ID filings are reviewed according to standard Clever-ISA Governance.
 
@@ -31,7 +31,7 @@ To file a request for a vendor id with this repository, submit a pull request ad
 * The public name of the class,
 * The name and contact information (email address) for the person or organization who owns and maintains the product id registry for the vendor id. Each vendor registrant must maintain a list of product ids issued under the vendor id,
 * The name and contact information (email address) for the person filing the registration and who is responsible for the registration,
-* The name and contact information of the registrar, Clever-ISA Project <chorman@lcdev.xyz>.
+* The name and contact information of the registrar, Clever-ISA Project <cleverisa@lcdev.xyz>.
 
 Vendor ID filings are reviewed according to standard Clever-ISA Governance.
 
@@ -45,7 +45,7 @@ To file a request for a vendor id with this repository, submit a pull request ad
 * The public name of the class,
 * A link to the specification for the subclass,
 * The name and contact information (email address) for the person filing the registration and who is responsible for the registration,
-* The name and contact information of the registrar, Clever-ISA Project <chorman@lcdev.xyz>.
+* The name and contact information of the registrar, Clever-ISA Project <cleverisa@lcdev.xyz>.
 
 Registrations of Well-known subclasses are approved according to the standard Clever-ISA Governance. 
 
