@@ -55,3 +55,4 @@ The registrant of a class id, vendor id, or well-known subclass id may amend the
 The registrant may also declare a list of delegates who are authorized to amend that information.
 
 Amending Registration Info requires Maintainer Approval only, except that amending specification information for a well-known subclass id registration requires full approval.
+
