@@ -12,7 +12,7 @@ This information may be used by:
 
 ## Submissions taken as Consent to use Data
 
-When you, being aware of the  intentionally submit or cause to be submitted on your behalf a contribution to the registry which includes your personal information, or the person information of an organization that you are permitted on act on the behalf of, you are taken to be providing to the Maintainer affirmative consent to publish the data as part of the public registry
+When you, being aware of the provisions in this document, intentionally submit or cause to be submitted on your behalf a contribution to the registry which includes your personal information, or the person information of an organization that you are permitted on act on the behalf of, you are taken to be providing to the Maintainer affirmative consent to publish the data as part of the public registry
 
 ## Request to Recieve Data
 
