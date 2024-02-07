@@ -53,6 +53,22 @@ Registrations of Well-known subclasses are approved according to the standard Cl
 
 The registrant of a class id, vendor id, or well-known subclass id may amend the information given in the registration.
 The registrant may also declare a list of delegates who are authorized to amend that information.
+The internal name and id of the registration may not be amended and are considered stable upon assignment. The registrant, the specification for a well known subclass, and the subregistry owner (for class ids and vendor ids) may be amended. 
 
 Amending Registration Info requires Maintainer Approval only, except that amending specification information for a well-known subclass id registration requires full approval.
 
+## Abandoning a Registration
+
+The registrant and/or subregistry owner of a class id, vendor id, or well-known subclass id may abandon the registration, and unlist themselves as the registrant or subregistry owner. This is the same as amending the registration to include a `-` in the appropriate field. Any registration that has been abanonded may have that responsibility claimed by any one who wishes, except that the subregistry owner may be reassigned only by the consent of the registrant, if one is still assigned. 
+
+Registrations are permanent and cannot be removed once added to the registry.
+
+## Use of Data
+
+Contributions to this repository may contain information considered personal information. You may only make a contribution to the repository:
+1. On behalf of yourself, or
+2. On behalf of an organization for which you are authorized to act on its behalf. 
+
+Any contribution made by you will be treated as consent for use of the data submitted in that contribution for the purposes integral to the operation of this registry, unless you explicitly state otherwise.  
+
+Information regarding the use of data is present in [Data](Data.md). 
