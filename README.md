@@ -72,3 +72,10 @@ Contributions to this repository may contain information considered personal inf
 Any contribution made by you will be treated as consent for use of the data submitted in that contribution for the purposes integral to the operation of this registry, unless you explicitly state otherwise.  
 
 Information regarding the use of data is present in [Data](Data.md). 
+
+## Copyright Information
+
+The registry files are deemed to contain only factual information not subject to copyright. 
+In case of an erroneous assesment, these files are released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), and all copyright to those files are waived to the greatest extent permitted by applicable law.
+ 
+
