@@ -13,7 +13,7 @@ jobs:
         route: POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
         owner: Clever-ISA
         repo: aci-registry-rs
-        workflow_id: deploy-crates-io
+        workflow_id: deploy-crates-io.yml
       env: 
         REQUEST_BODY: '{"ref":"main", "inputs":{"dry-run": false}}'
         GITHUB_TOKEN: ${{ secrets.WORKFLOW_GITHUB_TOKEN }}
