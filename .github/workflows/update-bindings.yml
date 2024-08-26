@@ -15,4 +15,5 @@ jobs:
         repo: aci-registry-rs
         workflow_id: deploy-crates-io
       env: 
+        REQUEST_BODY: '{"ref":"main", "inputs":{"dry-run": false}}'
         GITHUB_TOKEN: ${{ secrets.WORKFLOW_GITHUB_TOKEN }}
